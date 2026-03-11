@@ -1,5 +1,8 @@
 # Customer Churn Prediction
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-green)
+
 This project predicts whether a telecom customer will leave the service using machine learning.
 
 ## Dataset
